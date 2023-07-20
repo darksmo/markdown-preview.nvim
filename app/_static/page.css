@@ -24,6 +24,10 @@ main {
   background-color: var(--secondary-background-color);
 }
 
+img {
+    background-color: #ffffff;
+}
+
 #toggle-theme {
   float: left;
   vertical-align: middle;
